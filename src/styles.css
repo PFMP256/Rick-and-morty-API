@@ -1,0 +1,24 @@
+* {
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.residence {
+  padding: 20px 0;
+}
+
+.residents {
+  padding: 40px 0;
+}
+
+.card-resident {
+  margin: 10px 0px;
+  background: #4d4d4d;
+}
+.specifications {
+  color: #999999;
+}
